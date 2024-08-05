@@ -18,10 +18,8 @@ Similar to examples at [https://github.com/earlephilhower/arduino-pico/tree/mast
 ## Provisioning a RPi Pico W with Arduino
 
 - BSP: See [github/earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico)
-- RPi Pico W Simulated EEProm Docs: [See EEPROM Library]()
+- RPi Pico W Simulated EEProm Docs: See [EEPROM Library](https://arduino-pico.readthedocs.io/en/latest/eeprom.html)
 
-
-> RPi Pico W Simulated EEProm Docs: See [EEPROM Library](https://arduino-pico.readthedocs.io/en/latest/eeprom.html)
 > Blog Posts on this [otapico](https://davidjones.sportronics.com.au/tags/otapico/)
 
 ### LED Flash Codes
