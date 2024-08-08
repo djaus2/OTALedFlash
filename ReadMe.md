@@ -8,7 +8,7 @@ Similar to examples at [https://github.com/earlephilhower/arduino-pico/tree/mast
 ## Usage
 
 - Provision the RPi Pico W _(See next)_
-- Build and upload the Sketch to teh device.
+- Build and upload the Sketch to the device.
 - Partition the flash into 2 partitions of 1M
   - Tools->Flash Size->1M FS: M last option.
 - Build and deploy using USB-Serial
